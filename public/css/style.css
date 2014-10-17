@@ -1,0 +1,92 @@
+.top-row {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url('../img/paper.png');
+}
+
+.navbar-fixed-bottom {
+    background-image: url('../img/paper.png');
+}
+
+img {
+    position: absolute;
+}
+
+.region-list {
+    float: right;
+    margin-top: 15px;
+    margin-right: 10%;
+    display: block;
+}
+
+.centered{
+    float: none;
+    margin: 0 auto;
+}
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: dotted none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+.btn-sample {
+    color: #ffffff;
+    background-color: #929DD4;
+    border-color: #868299;
+}
+
+.btn-sample:hover,
+.btn-sample:focus,
+.btn-sample:active,
+.btn-sample.active,
+.open .dropdown-toggle.btn-sample {
+    color: #ffffff;
+    background-color: #706EBD;
+    border-color: #868299;
+}
+
+.btn-sample:active,
+.btn-sample.active,
+.open .dropdown-toggle.btn-sample {
+    background-image: none;
+}
+
+.btn-sample.disabled,
+.btn-sample[disabled],
+fieldset[disabled] .btn-sample,
+.btn-sample.disabled:hover,
+.btn-sample[disabled]:hover,
+fieldset[disabled] .btn-sample:hover,
+.btn-sample.disabled:focus,
+.btn-sample[disabled]:focus,
+fieldset[disabled] .btn-sample:focus,
+.btn-sample.disabled:active,
+.btn-sample[disabled]:active,
+fieldset[disabled] .btn-sample:active,
+.btn-sample.disabled.active,
+.btn-sample[disabled].active,
+fieldset[disabled] .btn-sample.active {
+    background-color: #929DD4;
+    border-color: #868299;
+}
+
+.btn-sample .badge {
+    color: #929DD4;
+    background-color: #ffffff;
+}
+
+/* image for link in main page*/
+
+#cphContent_repRegions_hlRegion_0:before{content:"";display:block;background:url(../img/cherkasy.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_1:before{content:"";display:block;background:url(../img/chernigiv.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_2:before{content:"";display:block;background:url(../img/chernivtsi.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_3:before{content:"";display:block;background:url(../img/Crimea.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_4:before{content:"";display:block;background:url(../img/dnipropetrovsk.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_5:before{content:"";display:block;background:url(../img/Donetsk.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_6:before{content:"";display:block;background:url(../img/Ivano-Frankivsk.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_7:before{content:"";display:block;background:url(../img/Kharkiv.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_8:before{content:"";display:block;background:url(../img/Kherson.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_9:before{content:"";display:block;background:url(../img/Khmelnitsky.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_10:before{content:"";display:block;background:url(../img/Kirovograd.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_11:before{content:"";display:block;background:url(../img/Kyiv.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_12:before{content:"";display:block;background:url(../img/Lugansk.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_13:before{content:"";display:block;background:url(../img/Lviv.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_14:before{content:"";display:block;background:url(../img/Mykolaiv.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_15:before{content:"";display:block;background:url(../img/Odessa.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_16:before{content:"";display:block;background:url(../img/Poltava.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_17:before{content:"";display:block;background:url(../img/Rivne.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_18:before{content:"";display:block;background:url(../img/Sumy.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_19:before{content:"";display:block;background:url(../img/Ternopil.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_20:before{content:"";display:block;background:url(../img/Vinnytsia.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_21:before{content:"";display:block;background:url(../img/Volyn.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_22:before{content:"";display:block;background:url(../img/Zakarpattia.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_23:before{content:"";display:block;background:url(../img/Zaporizhya.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}#cphContent_repRegions_hlRegion_24:before{content:"";display:block;background:url(../img/Zhytomyr.jpg) 0 0/contain no-repeat;width:30px;height:30px;float:left;margin:0 6px 0 0;position:relative}
+
+/* end image for link section */
