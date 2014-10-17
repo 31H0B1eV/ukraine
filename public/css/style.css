@@ -5,6 +5,8 @@
 
 body {
     background-image: url('../img/paper.png');
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .navbar-fixed-bottom {

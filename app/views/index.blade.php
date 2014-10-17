@@ -4,7 +4,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="pull-left">
-            <h1 style="margin-left: 15px;color: #585858;">Ukraine</h1>
+            <h2 style="margin-left: 15px;color: #585858;">Ukraine <br/><small style="font-size: small;">&nbsp“Nobody can go back and start a new beginning, but anyone can start today and make a new ending.”</small></h2>
         </div>
         <div class="pull-right region-list">
             <div class="dropdown">
